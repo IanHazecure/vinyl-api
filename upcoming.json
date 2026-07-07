@@ -1,0 +1,28 @@
+{
+  "upcoming": [
+    {
+      "id": "blur-roughtrade50",
+      "title": "Blur",
+      "subtitle": "Rough Trade 50: Anniversary Edition Vinyl",
+      "artist": "Blur",
+      "cover": "/covers/blur-roughtrade50.jpg",
+      "available": false
+    },
+    {
+      "id": "nmh-roughtrade50",
+      "title": "In the Aeroplane Over the Sea",
+      "subtitle": "Rough Trade 50: Anniversary Edition Vinyl",
+      "artist": "Neutral Milk Hotel",
+      "cover": "/covers/nmh-roughtrade50.jpg",
+      "available": false
+    },
+    {
+      "id": "whitestripes-roughtrade50",
+      "title": "Elephant",
+      "subtitle": "Rough Trade 50: Anniversary Edition Vinyl",
+      "artist": "The White Stripes",
+      "cover": "/covers/elephant-roughtrade50.jpg",
+      "available": false
+    }
+  ]
+}
